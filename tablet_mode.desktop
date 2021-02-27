@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Tablet Mode Toggle
+Comment=Toggle between screen modes
+Exec=/opt/toggle_tablet_mode/bin/rotate_screen.sh
+Type=Application
+Terminal=false
+Icon=/opt/toggle_tablet_mode/include/rotate_tablet.png
